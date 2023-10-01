@@ -11,10 +11,9 @@
 업데이트중 입니다
 
 
-
-
-[![Solved.ac
-henize](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+<!-- 백준 티어 -->
+<!-- https://soo-vely-dev.tistory.com/159 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/henize/)
 
 
 
