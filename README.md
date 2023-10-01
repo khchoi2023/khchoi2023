@@ -15,12 +15,14 @@
 
 <!-- Most Used Languages 시작 -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=great-gatsby" width="50%"/>
 </a>
 <!-- Most Used Languages 종료 -->
 
+
 <!-- Github Stats 시작 -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=tokyonight&show_icons=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=great-gatsby&show_icons=true" width="46%" />
 </a>
 <!-- Github Stats 종료 -->
