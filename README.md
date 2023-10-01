@@ -45,10 +45,11 @@
 <!-- https://github.com/mazassumnida/mazassumnida -->
 
 
-<!-- 3D 잔디 -->
-<!-- https://h-owo-ld.tistory.com/264 -->
-<!-- https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
+<!-- 3D 잔디 시작 -->
+<!-- 티스토리 매뉴얼 https://h-owo-ld.tistory.com/264 -->
+<!-- 깃허브 https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
+<!-- 오류 해결 방법 https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128 -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
+<!-- 3D 잔디 종료 -->
 
 
