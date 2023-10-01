@@ -15,7 +15,7 @@
 
 <!-- 백준 티어 -->
 <!-- https://soo-vely-dev.tistory.com/159 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=henize)](https://solved.ac/henize/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=henize)](https://solved.ac/henize/) -->
 
 
 
