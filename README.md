@@ -8,14 +8,19 @@
 </div>
 <!-- Welcom 종료 -->
 
-업데이트중 입니
+업데이트중 입니다
 
 
+
+
+<!-- Most Used Languages 시작 -->
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%"/>
 </a>
+<!-- Most Used Languages 종료 -->
 
+<!-- Github Stats 시작 -->
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=tokyonight&show_icons=true" width="46%" />
 </a>
-
+<!-- Github Stats 종료 -->
