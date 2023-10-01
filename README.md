@@ -13,6 +13,11 @@
 
 
 
+[![Solved.ac
+henize](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+
+
 <!-- Most Used Languages 시작 -->
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=great-gatsby" width="50%"/>
@@ -26,3 +31,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=great-gatsby&show_icons=true" width="46%" />
 </a>
 <!-- Github Stats 종료 -->
+
+
+
+<!-- 깃허브 꾸미기 -->
+<!-- https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1 -->
+
+<!-- 아이콘 -->
+<!-- https://simpleicons.org/ -->
+
+<!-- 백준 티어 -->
+<!-- https://github.com/mazassumnida/mazassumnida -->
+
+
+<!-- 3D 잔디 -->
+<!-- https://h-owo-ld.tistory.com/264 -->
+<!-- https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
+
+
+
+
