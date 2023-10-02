@@ -71,6 +71,10 @@
    <img src="https://img.shields.io/badge/CSS-FFB71B?style=plastic&logo=CSS3&logoColor=white">
 </p>
 
+<br>
+<br>
+<br>
+
 <p align="center" display="inline-block">
    💡 Mechanical Design <br>
    <!-- AutoCAD -->
