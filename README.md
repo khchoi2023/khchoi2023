@@ -13,42 +13,43 @@
 
 
 
-<!-- 백준 티어 -->
-<!-- https://soo-vely-dev.tistory.com/159 -->
+<!-- 백준 티어 시작 -->
+<!-- 참고 https://soo-vely-dev.tistory.com/159 -->
+<!-- 참고 https://github.com/mazassumnida/mazassumnida -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=henize)](https://solved.ac/henize/) -->
+<!-- 백준 티어 종료 -->
 
 
 
 <!-- Most Used Languages 시작 -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=great-gatsby" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=shadow_green" width="50%"/>
 </a>
 <!-- Most Used Languages 종료 -->
 
 
 <!-- Github Stats 시작 -->
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<!-- 참고 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=great-gatsby&show_icons=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=shadow_green&show_icons=true" width="46%" />
 </a>
 <!-- Github Stats 종료 -->
 
 
 
 <!-- 깃허브 꾸미기 -->
-<!-- https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1 -->
+<!-- 참고 https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1 -->
 
 <!-- 아이콘 -->
-<!-- https://simpleicons.org/ -->
+<!-- 참고 https://simpleicons.org/ -->
 
-<!-- 백준 티어 -->
-<!-- https://github.com/mazassumnida/mazassumnida -->
+
 
 
 <!-- 3D 잔디 시작 -->
-<!-- 티스토리 매뉴얼 https://h-owo-ld.tistory.com/264 -->
-<!-- 깃허브 https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
-<!-- 오류 해결 방법 https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128 -->
+<!-- 참고 티스토리 매뉴얼 https://h-owo-ld.tistory.com/264 -->
+<!-- 참고 깃허브 https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
+<!-- 참고 오류 해결 방법 https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128 -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <!-- 3D 잔디 종료 -->
 
