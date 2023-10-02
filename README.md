@@ -11,8 +11,10 @@
 업데이트중 입니다
 
 
-<!-- 파이썬 --> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-<!-- 주피터 --> <img src="https://img.shields.io/badge/jupyter-F37626?style=plastic&logo=Python&logoColor=white">
+<!-- 파이썬 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<!-- 주피터 -->
+<img src="https://img.shields.io/badge/jupyter-F37626?style=plastic&logo=Python&logoColor=white">
 
 
 
