@@ -25,28 +25,19 @@
    💡 Language and Tools<br>
    <!-- 파이썬 -->
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+   <!-- 매트랩 -->
+   <img src="https://img.shields.io/badge/Matlab-c04c0b?style=plastic">
    <!-- MySQL -->
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
    <!-- SAP -->
    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=SAP&logoColor=white">
-   <!-- 매트랩 -->
-   <img src="https://img.shields.io/badge/Matlab-c04c0b?style=plastic">
-   <!-- 깃허브 -->
-   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitGub&logoColor=white">
-   <!-- 슬랙 -->
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
-   <!-- 노션 -->
-   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-</p>
-
-<p align="left" display="inline-block">
-   💡 Tools<br>
    <!-- VS Code -->
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
    <!-- 주피터 -->
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white">
    <!-- 구글코랩 -->
    <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white">
+   <br>
    <!-- 텐서플로 -->
    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
    <!-- 셀레늄 -->
@@ -55,6 +46,12 @@
    <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white">
    <!-- 구글애널리틱스 -->
    <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
+   <!-- 깃허브 -->
+   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitGub&logoColor=white">
+   <!-- 슬랙 -->
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
+   <!-- 노션 -->
+   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
 </p>
 
 <p align="left" display="inline-block">
