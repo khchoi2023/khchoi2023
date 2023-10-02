@@ -26,6 +26,8 @@
 
 <p align="center" display="inline-block">
    💡 DB<br>
+   <!-- SAP -->
+   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=SAP&logoColor=white">
    <!-- MySQL -->
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
 </p>
@@ -77,8 +79,10 @@
    <!-- ANSYS -->
    <img src="https://img.shields.io/badge/Ansys-FFB71B?style=plastic&logo=Ansys&logoColor=white">
    <!-- PTC Creo -->
+   <img src="https://img.shields.io/badge/PTC Creo-5bb73b?style=plastic">
    <!-- Compress by Codeware -->
-   <!-- Aspen Hysys -->
+   <img src="https://img.shields.io/badge/Compress by Codeware-105785?style=plastic">
+
 </p>
 
 <p align="center" display="inline-block">
