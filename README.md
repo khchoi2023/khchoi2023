@@ -15,9 +15,14 @@
 <!-- 뱃지 참고 https://simpleicons.org/?q=jupy -->
 
 <p align="center" display="inline-block">
-   💡 Language<br>
+   💡 Language / Toll<br>
    <!-- 파이썬 -->
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+   <!-- 매트랩 -->
+   <img src="https://img.shields.io/badge/Matlab-3776AB?style=plastic&logo=https://www.svgrepo.com/show/306384/mathworks.svg&logoColor=white">
+   <br>
+   <!-- VS Code -->
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
    <!-- 주피터 -->
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white">
    <!-- 구글코랩 -->
