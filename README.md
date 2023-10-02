@@ -11,6 +11,10 @@
 업데이트중 입니다
 
 
+<!-- 파이썬 --> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<!-- 주피터 --> <img src="https://img.shields.io/badge/jupyter-F37626?style=plastic&logo=Python&logoColor=white">
+
+
 
 
 <!-- 백준 티어 시작 -->
@@ -22,7 +26,9 @@
 
 
 <!-- Most Used Languages 시작 -->
+<!-- 참고 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <!-- 참고 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=shadow_green" width="50%"/>
 </a>
