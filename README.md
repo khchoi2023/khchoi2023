@@ -15,11 +15,11 @@
 <!-- 뱃지 참고 https://simpleicons.org/?q=jupy -->
 
 <p align="center" display="inline-block">
-   💡 Language / Toll<br>
+   💡 Language / Tool<br>
    <!-- 파이썬 -->
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
    <!-- 매트랩 -->
-   <img src="https://img.shields.io/badge/Matlab-3776AB?style=plastic&logo=https://www.svgrepo.com/show/306384/mathworks.svg&logoColor=white">
+   <img src="https://img.shields.io/badge/Matlab-c04c0b?style=plastic">
    <br>
    <!-- VS Code -->
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
