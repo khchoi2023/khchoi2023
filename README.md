@@ -14,14 +14,14 @@
 
 
 
-<p align="center">
+<p align="left">
     <Strong>⚒️ Tech Stack ⚒️</Strong><br>
 </p>
 
 <!-- 뱃지 참고 <img src="https://img.shields.io/badge/표시되는글자-색상코드?style=plastic&logo=심플io아이콘이름&logoColor=로고색상"> -->
 <!-- 뱃지 참고 https://simpleicons.org/?q=jupy -->
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Language<br>
    <!-- 파이썬 -->
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
@@ -29,7 +29,7 @@
    <img src="https://img.shields.io/badge/Matlab-c04c0b?style=plastic">
 </p>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Tools<br>
    <!-- VS Code -->
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white">
 </p>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 DB<br>
    <!-- SAP -->
    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=SAP&logoColor=white">
@@ -47,7 +47,7 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
 </p>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Data<br>
    <!-- 텐서플로 -->
    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
@@ -59,7 +59,7 @@
    <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
 </p>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Cowork Tools<br>
    <!-- 깃허브 -->
    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitGub&logoColor=white">
@@ -69,7 +69,7 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
 </p>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Used at least once<br>
    <!-- 리눅스 -->
    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
@@ -85,7 +85,7 @@
 <br>
 <br>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Mechanical Design <br>
    <!-- AutoCAD -->
    <img src="https://img.shields.io/badge/AutoCAD-000000?style=plastic&logo=Autodesk&logoColor=white">
@@ -105,7 +105,7 @@
 
 </p>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
    💡 Process Design <br>
    <!-- Aspen Hysys -->
    <img src="https://img.shields.io/badge/Aspen HYSYS-0078c9?style=plastic">
