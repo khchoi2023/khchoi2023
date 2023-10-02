@@ -77,9 +77,9 @@
    <img src="https://img.shields.io/badge/CATIA-005386?style=plastic&logo=DassaultSystemes&logoColor=white">
    <!-- Abaqus -->
    <img src="https://img.shields.io/badge/Abaqus-005386?style=plastic&logo=DassaultSystemes&logoColor=white">
+   <br>
    <!-- ANSYS -->
    <img src="https://img.shields.io/badge/Ansys-FFB71B?style=plastic&logo=Ansys&logoColor=white">
-   <br>
    <!-- PTC Creo -->
    <img src="https://img.shields.io/badge/PTC Creo-5bb73b?style=plastic">
    <!-- Compress by Codeware -->
