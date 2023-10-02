@@ -11,16 +11,26 @@
 업데이트중 입니다
 
 
+
+
+
+<p align="center">
+    <Strong>⚒️ Tech Stack ⚒️</Strong><br>
+</p>
+
 <!-- 뱃지 참고 <img src="https://img.shields.io/badge/표시되는글자-색상코드?style=plastic&logo=심플io아이콘이름&logoColor=로고색상"> -->
 <!-- 뱃지 참고 https://simpleicons.org/?q=jupy -->
 
 <p align="center" display="inline-block">
-   💡 Language / Tool<br>
+   💡 Language<br>
    <!-- 파이썬 -->
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
    <!-- 매트랩 -->
    <img src="https://img.shields.io/badge/Matlab-c04c0b?style=plastic">
-   <br>
+</p>
+
+<p align="center" display="inline-block">
+   💡 Tools<br>
    <!-- VS Code -->
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
    <!-- 주피터 -->
