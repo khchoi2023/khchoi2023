@@ -47,7 +47,7 @@
    <!-- 구글애널리틱스 -->
    <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
    <!-- 깃허브 -->
-   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitGub&logoColor=white">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
    <!-- 슬랙 -->
    <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
    <!-- 노션 -->
