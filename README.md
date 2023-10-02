@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white">
 <!-- 테블로 -->
 <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white">
-<-- 구글애널리틱스 -->
+<!-- 구글애널리틱스 -->
 <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
 
 
