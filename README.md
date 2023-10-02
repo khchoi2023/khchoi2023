@@ -81,6 +81,15 @@
    <!-- Aspen Hysys -->
 </p>
 
+<p align="center" display="inline-block">
+   💡 Process Design <br>
+   <!-- Aspen Hysys -->
+   <img src="https://img.shields.io/badge/Aspen HYSYS-0078c9?style=plastic">
+</p>
+
+<br>
+<br>
+<br>
 
 
 <!-- 백준 티어 시작 -->
