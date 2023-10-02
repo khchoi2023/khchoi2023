@@ -14,53 +14,58 @@
 <!-- 뱃지 참고 <img src="https://img.shields.io/badge/표시되는글자-색상코드?style=plastic&logo=심플io아이콘이름&logoColor=로고색상"> -->
 <!-- 뱃지 참고 https://simpleicons.org/?q=jupy -->
 
-<!-- 파이썬 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-
-<!-- 주피터 -->
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white">
-
-<!-- 구글코랩 -->
-<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white">
-
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-
-
-
-<!-- 깃허브 -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitGub&logoColor=white">
-<!-- 슬랙 -->
-<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
-<!-- 노션 -->
-<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-
-
-<!-- 리눅스 -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
-<!-- 구글클라우드 -->
-<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=GoogleCloud&logoColor=white">
-<!-- HTML -->
-<img src="https://img.shields.io/badge/HTML-FFB71B?style=plastic&logo=HTML5&logoColor=white">
-<!-- CSS -->
-<img src="https://img.shields.io/badge/CSS-FFB71B?style=plastic&logo=CSS3&logoColor=white">
-
-
-
-
-<!-- 텐서플로 -->
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
-<!-- 셀레늄 -->
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white">
-<!-- 테블로 -->
-<img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white">
-<!-- 구글애널리틱스 -->
-<img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
-
-
+<p align="center" display="inline-block">
+   💡 Language<br>
+   <!-- 파이썬 -->
+   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+   <!-- 주피터 -->
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white">
+   <!-- 구글코랩 -->
+   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white">
+</p>
 
 <p align="center" display="inline-block">
-   💡 Language <br>
+   💡 DB<br>
+   <!-- MySQL -->
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+</p>
+
+<p align="center" display="inline-block">
+   💡 Data<br>
+   <!-- 텐서플로 -->
+   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
+   <!-- 셀레늄 -->
+   <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white">
+   <!-- 테블로 -->
+   <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white">
+   <!-- 구글애널리틱스 -->
+   <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
+</p>
+
+<p align="center" display="inline-block">
+   💡 Cowork Tools<br>
+   <!-- 깃허브 -->
+   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitGub&logoColor=white">
+   <!-- 슬랙 -->
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
+   <!-- 노션 -->
+   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+</p>
+
+<p align="center" display="inline-block">
+   💡 Used at least once<br>
+   <!-- 리눅스 -->
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+   <!-- 구글클라우드 -->
+   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=GoogleCloud&logoColor=white">
+   <!-- HTML -->
+   <img src="https://img.shields.io/badge/HTML-FFB71B?style=plastic&logo=HTML5&logoColor=white">
+   <!-- CSS -->
+   <img src="https://img.shields.io/badge/CSS-FFB71B?style=plastic&logo=CSS3&logoColor=white">
+</p>
+
+<p align="center" display="inline-block">
+   💡 Mechanical Design <br>
    <!-- AutoCAD -->
    <img src="https://img.shields.io/badge/AutoCAD-000000?style=plastic&logo=Autodesk&logoColor=white">
    <!-- Inventor -->
