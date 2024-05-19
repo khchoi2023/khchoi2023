@@ -12,6 +12,7 @@
 <br>
 Experienced engineer with a background in various fields including data science, data analysis, mechanical and cryogenic engineering. Prioritizes effective communication and teamwork in problem-solving and collaboration, always seeking to tackle new challenges proactively.
 <br>
+<br>
 데이터 과학, 데이터 분석, 기계 및 초저온 공학을 포함한 다양한 분야의 배경 지식을 갖춘 숙련된 엔지니어입니다. 문제 해결과 협업에 있어서 효과적인 의사소통과 팀워크를 우선시하며, 항상 새로운 도전에 적극적으로 대처하려고 노력합니다.
 <br>
 <br>
