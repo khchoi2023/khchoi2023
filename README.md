@@ -10,7 +10,7 @@
 
 <br>
 <br>
-업데이트중 입니다
+Experienced engineer with a background in various fields including data science, data analysis, mechanical and cryogenic engineering. Prioritizes effective communication and teamwork in problem-solving and collaboration, always seeking to tackle new challenges proactively.
 <br>
 <br>
 <br>
