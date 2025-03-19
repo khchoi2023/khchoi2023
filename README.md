@@ -11,16 +11,6 @@
 <br>
 <br>
 
-
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-<br>
-
 <p align="left">
     <Strong>⚒️ Tech Stack ⚒️</Strong><br>
 </p>
