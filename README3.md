@@ -46,5 +46,5 @@ turning engineering work into cleaner workflows with Python, data tools, and pra
   <a href="https://github.com/khchoi2023">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhchoi2023&count_bg=%2322C55E&title_bg=%23111827&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false" alt="views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhchoi2023&count_bg=%2322C55E&title_bg=%23111827&icon=&icon_color=%23FFFFFF&title=views&edge_flat=false" alt="views" />
 </p>
