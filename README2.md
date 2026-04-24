@@ -12,19 +12,13 @@
 
 <table>
   <tr>
-    <td width="50%">
-
-### Current Direction
-
-I build practical workflows around engineering work: turning repeated tasks, scattered data, and simulation output into cleaner tools and clearer decisions.
-
+    <td width="50%" valign="top">
+      <h3>Current Direction</h3>
+      <p>I build practical workflows around engineering work: turning repeated tasks, scattered data, and simulation output into cleaner tools and clearer decisions.</p>
     </td>
-    <td width="50%">
-
-### Working Style
-
-Structured thinking, careful documentation, and small automations that make technical work easier to repeat, review, and improve.
-
+    <td width="50%" valign="top">
+      <h3>Working Style</h3>
+      <p>Structured thinking, careful documentation, and small automations that make technical work easier to repeat, review, and improve.</p>
     </td>
   </tr>
 </table>
