@@ -1,140 +1,52 @@
-<!-- 카운터 시작 -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhchoi2023&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<!-- 카운터 종료 -->
-
-<!-- Welcom 시작 -->
-<div align=center>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME!&fontSize=90" />
-</div>
-<!-- Welcom 종료 -->
-
-<br>
-<br>
-
-<p align="left">
-    <Strong>⚒️ Tech Stack ⚒️</Strong><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:111827,45:2563EB,100:22C55E&text=engineering%20workflows&fontColor=FFFFFF&fontSize=48&fontAlignY=47&desc=mechanical%20design%20%2F%20data%20analysis%20%2F%20automation&descSize=18&descAlignY=64" alt="banner" />
 </p>
 
-<!-- 뱃지 참고 <img src="https://img.shields.io/badge/표시되는글자-색상코드?style=plastic&logo=심플io아이콘이름&logoColor=로고색상"> -->
-<!-- 뱃지 참고 https://simpleicons.org/?q=jupy -->
+## Hey, I'm K. H. Choi
 
-<p align="left" display="inline-block">
-   💡 Language and Tools<br>
-   <!-- 파이썬 -->
-   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-   <!-- 매트랩 -->
-   <img src="https://img.shields.io/badge/Matlab-c04c0b?style=plastic">
-   <!-- MySQL -->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-   <!-- SAP -->
-   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=SAP&logoColor=white">
-   <!-- VS Code -->
-   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
-   <!-- 주피터 -->
-   <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white">
-   <!-- 구글코랩 -->
-   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white">
-   <br>
-   <!-- 텐서플로 -->
-   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
-   <!-- 셀레늄 -->
-   <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white">
-   <!-- 테블로 -->
-   <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white">
-   <!-- 구글애널리틱스 -->
-   <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=plastic&logo=GoogleanAlytics&logoColor=white">
-   <!-- 깃허브 -->
-   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
-   <!-- 슬랙 -->
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
-   <!-- 노션 -->
-   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+mechanical design. data analysis. workflow automation.
+
+building cleaner engineering workflows with Python, data tools, and practical documentation.
+
+##
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22C55E" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-111827?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=22C55E" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=22C55E" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=22C55E" alt="Selenium" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=22C55E" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=22C55E" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=22C55E" alt="VS Code" />
 </p>
 
-<p align="left" display="inline-block">
-   💡 Used at least once<br>
-   <!-- 리눅스 -->
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
-   <!-- 구글클라우드 -->
-   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=GoogleCloud&logoColor=white">
-   <!-- HTML -->
-   <img src="https://img.shields.io/badge/HTML-FFB71B?style=plastic&logo=HTML5&logoColor=white">
-   <!-- CSS -->
-   <img src="https://img.shields.io/badge/CSS-FFB71B?style=plastic&logo=CSS3&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/AutoCAD-111827?style=flat-square&logo=autodesk&logoColor=22C55E" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/Inventor-111827?style=flat-square&logo=autodesk&logoColor=22C55E" alt="Inventor" />
+  <img src="https://img.shields.io/badge/CATIA-111827?style=flat-square&logo=dassaultsystemes&logoColor=22C55E" alt="CATIA" />
+  <img src="https://img.shields.io/badge/Abaqus-111827?style=flat-square&logo=dassaultsystemes&logoColor=22C55E" alt="Abaqus" />
+  <img src="https://img.shields.io/badge/Ansys-111827?style=flat-square&logo=ansys&logoColor=22C55E" alt="Ansys" />
+  <img src="https://img.shields.io/badge/Aspen%20HYSYS-111827?style=flat-square" alt="Aspen HYSYS" />
+  <img src="https://img.shields.io/badge/SAP-111827?style=flat-square&logo=sap&logoColor=22C55E" alt="SAP" />
 </p>
 
-<p align="left" display="inline-block">
-   💡 Mechanical Design <br>
-   <!-- AutoCAD -->
-   <img src="https://img.shields.io/badge/AutoCAD-000000?style=plastic&logo=Autodesk&logoColor=white">
-   <!-- Inventor -->
-   <img src="https://img.shields.io/badge/Inventor-000000?style=plastic&logo=Autodesk&logoColor=white">
-   <!-- CATIA -->
-   <img src="https://img.shields.io/badge/CATIA-005386?style=plastic&logo=DassaultSystemes&logoColor=white">
-   <!-- Abaqus -->
-   <img src="https://img.shields.io/badge/Abaqus-005386?style=plastic&logo=DassaultSystemes&logoColor=white">
-   <br>
-   <!-- ANSYS -->
-   <img src="https://img.shields.io/badge/Ansys-FFB71B?style=plastic&logo=Ansys&logoColor=white">
-   <!-- PTC Creo -->
-   <img src="https://img.shields.io/badge/PTC Creo-5bb73b?style=plastic">
-   <!-- Compress by Codeware -->
-   <img src="https://img.shields.io/badge/Compress by Codeware-105785?style=plastic">
+## Currently
+
+- building small automations for repetitive engineering tasks
+- learning better ways to connect analysis, simulation, and reporting
+- keeping notes that make technical decisions easier to revisit
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khchoi2023&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="left" display="inline-block">
-   💡 Process Design <br>
-   <!-- Aspen Hysys -->
-   <img src="https://img.shields.io/badge/Aspen HYSYS-0078c9?style=plastic">
+## Connect
+
+<p>
+  <a href="https://github.com/khchoi2023?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/khchoi2023"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<br>
-<br>
-<br>
-
-
-<!-- 백준 티어 시작 -->
-<!-- 참고 https://soo-vely-dev.tistory.com/159 -->
-<!-- 참고 https://github.com/mazassumnida/mazassumnida -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=henize)](https://solved.ac/henize/) -->
-<!-- 백준 티어 종료 -->
-
-
-
-<!-- Most Used Languages 시작 -->
-<!-- 참고 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<!-- 참고 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&exclude_repo=dkssud8150.github.io&layout=compact&theme=shadow_green" width="50%"/>
-</a>
-<!-- Most Used Languages 종료 -->
-
-
-<!-- Github Stats 시작 -->
-<!-- 참고 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<!-- 참고 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=khchoi2023&theme=shadow_green&show_icons=true" width="46%" />
-</a>
-<!-- Github Stats 종료 -->
-
-
-
-<!-- 깃허브 꾸미기 -->
-<!-- 참고 https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1 -->
-
-<!-- 아이콘 -->
-<!-- 참고 https://simpleicons.org/ -->
-
-
-
-
-<!-- 3D 잔디 시작 -->
-<!-- 참고 티스토리 매뉴얼 https://h-owo-ld.tistory.com/264 -->
-<!-- 참고 깃허브 https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
-<!-- 참고 오류 해결 방법 https://stackoverflow.com/questions/76023778/action-failed-with-the-process-usr-bin-git-failed-with-exit-code-128 -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-<!-- 3D 잔디 종료 -->
-
-
