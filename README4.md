@@ -47,10 +47,6 @@ turning engineering work into cleaner workflows with Python, data tools, and pra
 ## Connect
 
 <p>
-  <a href="https://github.com/khchoi2023?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <a href="https://github.com/khchoi2023">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
