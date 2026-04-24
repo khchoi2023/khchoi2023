@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C83D,100:1F6F8B&height=220&section=header&text=Kyoungho%20Choi&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Design%20%7C%20Data%20Analysis%20%7C%20Automation&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C83D,100:1F6F8B&height=220&section=header&text=K.%20H.%20Choi&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Design%20%7C%20Data%20Analysis%20%7C%20Automation&descSize=18&descAlignY=58" alt="header" />
 </div>
 
 <h3 align="center">Mechanical design engineer growing through data, automation, and practical problem solving.</h3>
@@ -83,6 +83,14 @@
   <a href="https://github.com/khchoi2023">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top languages" />
   </a>
+</div>
+
+<br />
+
+## 3D Contribution
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </div>
 
 <br />
