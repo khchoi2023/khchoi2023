@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:111827,45:2563EB,100:22C55E&text=engineering%20things&fontColor=FFFFFF&fontSize=48&fontAlignY=47&desc=design%20%2F%20data%20%2F%20automation&descSize=18&descAlignY=64" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:111827,45:2563EB,100:22C55E&text=engineering%20workflows&fontColor=FFFFFF&fontSize=48&fontAlignY=47&desc=mechanical%20design%20%2F%20data%20analysis%20%2F%20automation&descSize=18&descAlignY=64" alt="banner" />
 </p>
 
 ## Hey, I'm K. H. Choi
 
-i design. i analyze. i automate.
+mechanical design. data analysis. workflow automation.
 
-turning engineering work into cleaner workflows with Python, data tools, and practical documentation.
+building cleaner engineering workflows with Python, data tools, and practical documentation.
 
 ##
 
@@ -40,13 +40,13 @@ turning engineering work into cleaner workflows with Python, data tools, and pra
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khchoi2023&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khchoi2023&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khchoi2023&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ## Connect
 
 <p>
-  <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/khchoi2023?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/khchoi2023"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
